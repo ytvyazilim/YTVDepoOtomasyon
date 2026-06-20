@@ -1,6 +1,6 @@
 # YTV Depo Otomasyon Yazılımı
 
-**YTV Yazılım** tarafından geliştirilmiştir.
+**YTV Yazılım** (Arda) tarafından geliştirilmiştir.
 
 ## 📌 Proje Hakkında
 
@@ -53,6 +53,19 @@ internal class sqlbaglanti
 - Webcam (barkod okuma için) veya Barkod Cihazı
 
 ## 👨‍💻 Geliştirici
-
+Arda
 **YTV Yazılım**  
-[GitHub](https://github.com/ytvyazilim) • [YTV Mağaza](https://www.itemsatis.com/p/YTVMAGAZA)
+[GitHub](https://github.com/ytvyazilim)
+[YTV Mağaza](https://www.itemsatis.com/p/YTVMAGAZA)
+[İnstagram](https://www.instagram.com/qarda078/)
+[Threads](https://www.threads.com/@qarda078)
+Discord : ytvmagaza
+
+## Hakkımda
+Merhaba, ben Arda. 17 yaşındayım ve dijital dünyada sadece kod yazan değil, değer üreten bir geliştirici olma yolunda ilerleyen bir öğrenciyim. Yazılım mühendisliği hedefimle, günümü hem kendimi geliştirmeye hem de topluluğa fayda sağlayacak işler yapmaya adıyorum.
+
+Teknik dünyamda C#, SQL ve ASP.NET MVC mimarisi ile güçlü backend çözümleri üretirken; aynı zamanda Unity ile oyun dünyasının kapılarını aralıyorum. Masaüstü uygulamaları geliştirme ve oyun tasarımı üzerine yoğunlaşan çalışmalarımı, öğrendiğim her yeni bilgiyi kendi projelerimde "uygula ve geliştir" disipliniyle harmanlayarak pekiştiriyorum.
+
+"YTV Yazılım" çatısı altında, merakımı üretimle birleştiriyor ve teknoloji ekosistemine kalıcı katkılar sağlamayı hedefliyorum.
+
+Benimle teknik projeler, oyun geliştirme fikirleri veya dijital ekosistemler üzerine konuşmak isterseniz, bana aşağıdaki kanallardan ulaşabilirsiniz.
