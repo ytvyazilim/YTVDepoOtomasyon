@@ -56,9 +56,13 @@ internal class sqlbaglanti
 Arda
 **YTV Yazılım**  
 [GitHub](https://github.com/ytvyazilim)
+
 [YTV Mağaza](https://www.itemsatis.com/p/YTVMAGAZA)
+
 [İnstagram](https://www.instagram.com/qarda078/)
+
 [Threads](https://www.threads.com/@qarda078)
+
 Discord : ytvmagaza
 
 ## Hakkımda
